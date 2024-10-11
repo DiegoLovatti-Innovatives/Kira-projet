@@ -9,7 +9,8 @@
     $usuario_autenticado = false;
     //usuarios do sistema
     $usuarios_app = array(array('email' => 'diego.lovatti@gmail.com', 'senha' => '1234'),
-                          array('email' => 'diego.lovatti@innovatives.com.br', 'senha' => '1234'));
+                          array('email' => 'diego.lovatti@innovatives.com.br', 'senha' => '1234'),
+                          array('email' => 'admin', 'senha' => 'admin'));
 
 ?>
 
